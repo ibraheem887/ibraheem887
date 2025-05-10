@@ -17,7 +17,7 @@
 - ⚡ Fun fact: [A quirky, interesting, or surprising fact about you]
 
 ---
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,aws,linux,git,vscode" /> </p>
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
