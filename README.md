@@ -3,19 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Powered-blue?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=for-the-badge&logo=github">
+  <b>A passionate undergrad from FAST-NUCES</b>
 </p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Working on full-stack web development and automation projects  
-- 🧠 Exploring AI, data science, and scalable scraping solutions  
-- 💬 Love problem-solving and building efficient systems  
-- 🌍 Always learning, always building  
-- 📫 Reach me at: `ibraheem.dev@example.com`
 
 ---
 
