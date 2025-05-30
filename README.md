@@ -68,29 +68,3 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibraheem887&theme=tokyonight&show_icons=true&hide_border=true" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=ibraheem887&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheem887&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌍 Visitors
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ibraheem887&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</p>
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
-
