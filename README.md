@@ -1,11 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=450&lines=Hi+There!+I'm+Ibraheem;Software+Engineer;Full-Stack+Web+Developer;Web+Scraper" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <b>A passionate undergrad from FAST-NUCES</b>
-</p>
-
 ---
 
 ## 💻 Tech Toolbox
