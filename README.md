@@ -15,7 +15,7 @@
 - 🔧 Building **scalable full-stack applications** using **MERN**, **.NET**, and **Laravel**.
 - 🌐 Expertise in **web scraping & data pipelines** using **Python**, **Selenium**, and **BeautifulSoup**.
 - 📊 Data Science projects with **PyTorch**, **scikit-learn**, **Pandas**, and **Plotly**.
-- 🧩 Open to freelance, collaborations & hackathons!
+
 
 ---
 
