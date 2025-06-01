@@ -70,6 +70,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/aka_ibi?theme=dark&ext=contest)
+
+---
 
 ## 📈 GitHub Stats
 
